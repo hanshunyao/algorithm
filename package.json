@@ -1,0 +1,20 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "利用js实现一些算法，并包含一些实例。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanshunyao/algorithm.git"
+  },
+  "keywords": [],
+  "author": "hanshunyao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanshunyao/algorithm/issues"
+  },
+  "homepage": "https://github.com/hanshunyao/algorithm#readme"
+}
