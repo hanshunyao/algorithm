@@ -7,22 +7,6 @@
  * @Description: 线性数据结构遍历逆向的练习
  */
 
-var arr1 = [1,2,3,4,5]
-
-// for遍历数组
-// for(var i = 0 ; i < arr1.length ; i++){
-//   console.log(arr1[i])
-// }
-
-// foreach
-// arr1.forEach(ele => {
-//   console.log(ele)
-// });
-
-// 数组反转 .reverse()
-console.log(arr1.reverse())
-
-
 // 生成链表节点
 function node(value) {
   this.value = value
