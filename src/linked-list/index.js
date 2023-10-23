@@ -1,8 +1,8 @@
 /*
- * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+ * @Author: hanshunyao hanshunyao_hansy@163.com
  * @Date: 2023-10-13 10:07:39
- * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2023-10-13 10:30:49
+ * @LastEditors: hanshunyao hanshunyao_hansy@163.com
+ * @LastEditTime: 2023-10-22 14:13:06
  * @FilePath: \Algorithm\linked-list\index.js
  * @Description: 线性数据结构遍历逆向的练习
  */
@@ -58,5 +58,5 @@ function reversion(root) {
   }
 }
 
-// reversion(node1)
-// foreachNode(node5)
+reversion(node1)
+foreachNode(node5)
