@@ -15,6 +15,8 @@ algorithm
 │   ├── linked-list
 │   │   ├── index.js
 │   │   └── linked-list.md
+│   ├── queue
+│   │   └── queue.js
 │   └── stack
 │       └── stack.js
 ├── README.md
