@@ -13,6 +13,7 @@ algorithm
 │   │   ├── quick-sort.js
 │   │   └── select-sort.js
 │   ├── linked-list
+│   │   ├── doubly-linked-list.js
 │   │   ├── index.js
 │   │   └── linked-list.md
 │   ├── queue

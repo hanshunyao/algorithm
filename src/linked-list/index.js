@@ -2,7 +2,7 @@
  * @Author: hanshunyao hanshunyao_hansy@163.com
  * @Date: 2023-10-13 10:07:39
  * @LastEditors: hanshunyao hanshunyao_hansy@163.com
- * @LastEditTime: 2023-10-22 14:13:06
+ * @LastEditTime: 2023-10-26 16:40:42
  * @FilePath: \Algorithm\linked-list\index.js
  * @Description: 线性数据结构遍历逆向的练习
  */
